@@ -1,5 +1,5 @@
 ## JavaScript built in data structures
-Array
-Object
-Set
-Map
+- Array
+- Object
+- Set
+- Map
