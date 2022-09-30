@@ -48,12 +48,17 @@
 - Insertion order is maintained in arrays but it is not the case with sets.
 - Searching and deleting an element in the set is faster compared to arrays.
 
-### Set Big-0 time complexity
-- insert-0(1)
-- remove-0(1)
-- access-0(1)
-- search-0(n)
-- object.keys()-0(n)
-- object.values()-0(n)
-- object.entries()-0(n)
+
+## Map
+- A map is an unordered collection of key-value pairs. Both keys and values can be of any data type.
+- To retrieve a value, you can use the corresponding key.
+- Maps are iterables, They can be used with a for of loop.
+
+### Map vs Object
+- Objects are unordered whereas maps are ordered.
+- Keys in objects can only be string or symbol type whereas in maps, they can be of any type.
+- An object has a prototype and contain a few default keys which may collide with your own keys if you are not careful. A map on the other hand does not contain any keys by default.
+- objects are not iterables where as maps are iterables.
+- The number of items in an object must be determined manually where as it it readily available with the size property in a map.
+- Apart from string data, you can attach functionality to an object whereas maps are restricted to just storing data.
 
