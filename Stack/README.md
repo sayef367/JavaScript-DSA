@@ -8,7 +8,7 @@
     - Pop, which removes the most recently added element from the collection
 
 ### Stack Push and Pop Operations
-![](Animation/Stack_Operations.png)
+![](https://cdn.programiz.com/sites/tutorial2program/files/stack.png)
 
 ### Stack Usage
 - Browser history tracking
