@@ -33,7 +33,7 @@
     - Dequeue, which removes an element from the front/head of the collection.
 
 ### Circular Queue Visualization
-![](https://cdn.programiz.com/sites/tutorial2program/files/circular-queue-program.png)
+<img src="https://cdn.programiz.com/sites/tutorial2program/files/circular-queue-program.png" width="400" />
 
 ### Circular Queue Usage
 - Clock

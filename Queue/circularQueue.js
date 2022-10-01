@@ -52,22 +52,22 @@ class CircularQueue {
                 str += this.items[i] + " ";
             }
             str += this.items[i];
-            console.log(str);
+            console.log("current element: ", str);
         }
         
     }
 }
 const queue = new CircularQueue(5); //queue limit
-console.log("It's Empty: " + queue.isEmpty());
+console.log("It's Empty: ", queue.isEmpty());
 queue.enqueue(10);
 queue.enqueue(20);
 queue.enqueue(30);
 queue.enqueue(40);
 queue.enqueue(50);
-console.log("It's Full: " + queue.isFull());
-queue.print(); //print current element
-console.log(queue.dequeue()); //removed
-console.log(queue.peek()); //top queue
-queue.print(); //print current element
+console.log("It's Full: ", queue.isFull());
+queue.print();
+console.log("Removed: ", queue.dequeue());
+console.log("top queue: ", queue.peek());
+queue.print();
 queue.enqueue(60);
-queue.print(); //print current element
+queue.print();

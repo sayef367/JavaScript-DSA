@@ -30,11 +30,12 @@ class Queue {
     }
 }
 const queue = new Queue();
-console.log(queue.isEmpty());
+console.log("It's Empty:", queue.isEmpty());
 queue.enqueue(10);
 queue.enqueue(20);
 queue.enqueue(30);
-console.log("Size: " + queue.size());
-console.log("Removed: " + queue.dequeue());
-console.log(queue.print());
-console.log("Peek: " + queue.peek()); //top queue
+queue.enqueue(40);
+console.log("Size: ", queue.size());
+console.log("Removed: ", queue.dequeue());
+console.log("Current Queue:", queue.print());
+console.log("Top: ", queue.peek());

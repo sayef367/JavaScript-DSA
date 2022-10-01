@@ -5,8 +5,8 @@ for(let [key, value] of map){
     console.log(`${key}: ${value}`);
 }
 
-console.log("Has: " + map.has('a')); //data is there or not
-console.log("Delete: " + map.delete('b')); //data is delete
-console.log("Size of: " + map.size); //size of map
+console.log("Has: ", map.has('a')); //data is there or not
+console.log("Delete: ", map.delete('b')); //data is delete
+console.log("Size of: ", map.size); //size of map
 map.clear(); //delete all
 console.log(map);

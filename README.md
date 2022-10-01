@@ -18,6 +18,7 @@ I solve the DSA to different types of data structures and algorithms and their i
     - queue2 //using an object
     - Circular Queue
 - Linked List
+    - prependLinkedList //it's 0(1)
 - Hash Table
 - Tree
 - Graph

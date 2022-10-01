@@ -6,7 +6,7 @@ console.log(set);
 
 console.log(set.has(4)); //value is there or not
 set.delete(2); //delete item
-console.log("size of: " + set.size); //how many item is there
+console.log("size of: ", set.size); //how many item is there
 
 for(let item of set){
     console.log(item);
