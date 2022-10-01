@@ -1,4 +1,3 @@
-//prepend methode [30,20,10]
 //it's 0(1)
 //Prepend has a constant time complexity
 
@@ -43,6 +42,7 @@ class LinkedList {
         }
     }
 }
+//prepend methode [30,20,10]
 const list = new LinkedList();
 console.log('List is empty!', list.isEmpty());
 console.log('List size:', list.getSize());

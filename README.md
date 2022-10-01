@@ -19,6 +19,5 @@ I solve the DSA to different types of data structures and algorithms and their i
     - Circular Queue
 - Linked List
     - prependLinkedList //it's 0(1)
-- Hash Table
-- Tree
-- Graph
+    - appendLinkedList.js //it's 0(n)
+
