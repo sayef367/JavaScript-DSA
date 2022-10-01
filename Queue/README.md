@@ -10,7 +10,7 @@
 ### Queue Visualization - Enqueue and Dequeue Operations
 ![](https://cdn.programiz.com/sites/tutorial2program/files/queue.png)
 
-### Stack Usage
+### Queue Usage
 - Printers
 - CPU task scheduling
 - Callback queue in JavaScript

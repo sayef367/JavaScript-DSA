@@ -1,4 +1,5 @@
-// this method issue in time complexity
+//queue data structure using an array
+//this method issue in time complexity
 class Queue {
     constructor(){
         this.items = [];

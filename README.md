@@ -14,8 +14,8 @@ I solve the DSA to different types of data structures and algorithms and their i
 ### Custom data Structures 
 - Stack
 - Queue
-    - queue1 //this method issue in time complexity
-    - 
+    - queue1 //using an array
+    - queue2 //using an object
 - Circular Queue
 - Linked List
 - Hash Table
