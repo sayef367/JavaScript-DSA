@@ -21,4 +21,5 @@ I solve the DSA to different types of data structures and algorithms and their i
     - prependLinkedList //it's 0(1)
     - appendLinkedList.js //it's 0(n)
     - linkedListNode.js
+    - headTailPointer.js
 
