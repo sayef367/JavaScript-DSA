@@ -24,4 +24,5 @@ I solve the DSA to different types of data structures and algorithms and their i
     - headTailPointer.js
     - linkedListStack.js
     - linkedListQueue.js
+- HashTable.js
 
