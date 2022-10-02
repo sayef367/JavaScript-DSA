@@ -7,17 +7,18 @@ I solve the DSA to different types of data structures and algorithms and their i
 
 ## DSA Roadmap step by step
 ### Built in data structures 
-- Array
-- Object
-- Set
-- Map
+- Array.js
+- Object.js
+- Set.js
+- Map.js
 ### Custom data Structures 
-- Stack
-- Queue
-    - queue1 //using an array
-    - queue2 //using an object
-    - Circular Queue
+- Stack.js
+- Queue.js
+    - queue1.js //using an array
+    - queue2.js //using an object
+    - CircularQueue.js
 - Linked List
     - prependLinkedList //it's 0(1)
     - appendLinkedList.js //it's 0(n)
+    - linkedListNode.js
 
