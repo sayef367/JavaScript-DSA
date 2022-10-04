@@ -27,4 +27,5 @@ I solve the DSA to different types of data structures and algorithms and their i
 - HashTable.js
 - Tree
     - BinarySearchTree.js
+- Graph
 
