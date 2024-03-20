@@ -1,5 +1,5 @@
 ## JavaScript Data Structure
-I solve the DSA to different types of data structures and algorithms and their implementations in JavaScript.
+I learn the DSA for different types of data structures, algorithms and their implementations in JavaScript.
 
 ## What is a Data Structure?
 - A data Structure is a way to store and organize data so that it can be used efficiently.

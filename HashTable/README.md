@@ -1,14 +1,14 @@
 ## Hash Table
 - A hash table, also known as hash map, is a data structure that is used to store key-value pairs.
 - Given a key, you can associate a value with that key for very fast lookup.
-- JavaScript's Pbkect os a special implementation of the hash table data structure. However, object class adds its own keys. Keys that you input may conflict and overwrite the inherited default properties
+- JavaScript's Object os a special implementation of the hash table data structure. However, object class adds its own keys. Keys that you input may conflict and overwrite the inherited default properties
 - Maps which were introduced in 2015 allow you to store key-value pairs.
     
 ### Hash Table contd
 - Hash tables store key value pairs
     - 'bn' = 'Bangladesh'
     - 'in' = 'India'
-    - 'it' = 'Itly'
+    - 'it' = 'Italy'
 - We store the key value pairs in a fix sized array.
 - Array have a numeric index.
 - How do we go from using a string as an index to number as an index?
