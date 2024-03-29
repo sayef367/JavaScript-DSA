@@ -33,6 +33,7 @@ Asymptotic notations
     - It is expressed in terms of the input.
     - It focuses on the bigger picture without getting caught up in the minute details.
 - Big-O Time complexity
+```bash
 function summation(n) {
     let sum = 0;
     for (let i = 1; i <= n; i++) {
@@ -41,16 +42,19 @@ function summation(n) {
     return sum;
 };
 summation(4) // 1+2+3+4 = 10
+```
 Count the number of times a statement executes based on the input size.
 
 - Big-O time complexity contd.
 ![](image/big-o.png)
 
 - It focuses on the bigger picture without getting caught up in the minute details
+```bash
 n + 2      =>     n
 n = 100         100+2
 n = 1000        1000+2
 n = 1000000     1000000+2
+```
 - Time complexity O(n) - Linear
 - Space complexity
     - O(1) - Constant
@@ -62,26 +66,26 @@ n = 1000000     1000000+2
 ![](image/array_bit-o.png)
 
 ## DSA Roadmap step by step
-### Built in data structures 
+### [Built in data structures](https://github.com/sayef367/JavaScript-DSA/tree/master/Built-in)
 - Array.js
 - Object.js
 - Set.js
 - Map.js
 ### Custom data Structures 
-- Stack.js
-- Queue.js
+- [Stack](https://github.com/sayef367/JavaScript-DSA/tree/master/Stack)
+- [Queue](https://github.com/sayef367/JavaScript-DSA/tree/master/Queue)
     - queue1.js //using an array
     - queue2.js //using an object
     - CircularQueue.js
-- Linked List
+- [Linked List](https://github.com/sayef367/JavaScript-DSA/tree/master/LinkedList)
     - prependLinkedList //it's 0(1)
     - appendLinkedList.js //it's 0(n)
     - linkedListNode.js
     - headTailPointer.js
     - linkedListStack.js
     - linkedListQueue.js
-- HashTable.js
-- Tree
+- [HashTable](https://github.com/sayef367/JavaScript-DSA/tree/master/HashTable)
+- [Tree]()
     - BinarySearchTree.js
-- Graph
+- [Graph](https://github.com/sayef367/JavaScript-DSA/tree/master/Graph)
 
